@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: kaushalkishore
+Build-Jdk: 15.0.2
+Implementation-Title: springboot2-jpa-crud-example
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: net.guides.springboot2
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/springboot2-jpa-crud-example
+Created-By: Maven Integration for Eclipse
+
